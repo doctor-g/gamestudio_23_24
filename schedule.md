@@ -19,6 +19,8 @@ For Wednesday, September 6, so that we can have a focused discussion on testing 
 
 Friday, September 15: Team Status Report and Retrospective Meeting
 
+Monday, September 18: Studio visit by [Ted Baker](https://innovationconnector.com/tbaker-about-info/), Executive Director and CEO of the Innovation Connector
+
 Friday, September 29: Team Status Report and Retrospective Meeting
 
 Before Monday, October 2: Schedule your mid-semester one-on-one meeting with the professor.
