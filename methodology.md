@@ -57,17 +57,10 @@ We are proud to uphold the [BSU Beneficence Pledge](https://www.bsu.edu/about/be
     - The #general and #random channels are available for studio-wide communication.
     - Other channels can be set up in an _ad hoc_ basis. Channels that are no longer needed should be archived.
 
-1. We start each production day with a 9AM daily standup meeting, during which each member reports on the following to their team:
-    - What did you contribute since last time?
-    - What do you plan to accomplish before next time?
-    - Are there any impediments?
-
 1. If a team member is unable to attend a meeting or knows they will be late,
    they must post to the #general channel on Slack. This does not excuse the absence, but it does enable the rest of the team to move forward without uncertainty.
 
-
 1. The _Treat Board_ is a schedule of when team members will be bringing treats for the studio. Team members may volunteer to bring treats at any time. A team member is obligated to sign up on the Treat Board in order to apologize for violations of the methodology. For example, missing or being late to a team meeting obligates a team member to sign up on the Treat Board.
-
 
 1. The production plan will be managed using HacknPlan.
     - The design model should be disabled or not used.
