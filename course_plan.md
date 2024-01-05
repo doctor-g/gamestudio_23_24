@@ -96,7 +96,7 @@ following earns an A grade:
 <th>Playtesting</th>
 <th>Beta</th>
 <th>Release</th>
-<th>Performance Evaluations</th>
+<th>Self-Evaluations</th>
 </tr>
 <tr>
 <th>A</th>
@@ -110,14 +110,14 @@ following earns an A grade:
 <td>Two informal playtests completed prior to release</td>
 <td>Milestone reached on schedule</td>
 <td>Completed on Steam before the end of the semester</td>
-<td>At most one unsatisfactory</td>
+<td>All satisfactory</td>
 </tr>
 <tr>
 <th>C</th>
 <td>One informal playtest completed prior to release</td>
 <td>Milestone completed</td>
 <td>Completed on a non-Steam platform</td>
-<td>At most two unsatisfactory</td>
+<td>At most one unsatisfactory</td>
 </tr>
 <tr>
 <th>D</th>
@@ -133,6 +133,52 @@ a plus(&ldquo;+&rdquo;) designation. Earning two from the grade above
 your own earns a minus(&ldquo;-&rdquo;) designation of the next 
 higher rank.
 
+### Self-Evaluations
+
+A key step to learning from mistakes  is to document your failures.
+[Fitzpatrick and Collins-Sussman](https://www.oreilly.com/library/view/team-geek/9781449329839/) recommend doing this through
+_postmortems_:
+
+> ... [T]he postmortem document isn't just a useless list of apologies or excuses&mdash;that's not its purpose. A proper postmortem should always
+contain an explanation of _what was learned_ and _what is going to
+change_ as a result of the learning experience. &hellip; Don't erase
+your tracks&mdash;light them up like a runway for those who follow you!
+
+Follow these steps to complete your self-evaluation.
+
+1. Read through the team's methodology (NB: the one in your organization, not [the starter one available here](methodology.md)) in light of your performance since the last evaluation. For each item in the methodology, classify your compliance as one of the following:
+    - Clearly satisfied
+    - Not clearly satisfied
+    - Not applicable
+
+2. If any items are not clearly satisfied, write a postmortem that contains the following:
+    - Summary of what went wrong
+    - The primary cause
+    - Impact and damage assessment
+    - A set of action items to fix the problem immediately
+    - A set of action items to prevent the event from happening again
+    - Lessons learned
+
+    These action items must be expressed in a manner that is specific,
+    measurable, attainable, relevant, and timely. Each must have
+    a deadline by which you propose to have them complete.
+    Most action items should be attainable within a few working days at most;
+    if you require more time, talk to the instructor about an individualized
+    schedule.
+    Otherwise, the expected window of time between the initial self-evaluation
+    and its final submission and conclusion is one week.
+
+Self-evaluations will be assessed by the instructor as one of the following:
+
+- *Satisfactory*: The instructor agrees with the evaluation and any action items
+  have been addressed.
+
+- *In Progress*: The self-evaluation contains action items that are appropriate but not yet addressed. Resubmit the self-evaluation when the action items are addressed.
+
+- *Needs Revision*: The instructor disagrees with your self-evaluation. Rewrite your self-evaluation, taking the instructor's feedback into account, and resubmit it
+within three working days.
+
+To be clear, a self-evaluation is _unsatisfactory_ until it is _satisfactory_.
 
 
 ## Miscellany
