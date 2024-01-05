@@ -90,7 +90,50 @@ following earns an A grade:
 
 ### CS415 (Spring)
 
-TBD
+<table>
+<tr>
+<th>Grade</th>
+<th>Playtesting</th>
+<th>Beta</th>
+<th>Release</th>
+<th>Performance Evaluations</th>
+</tr>
+<tr>
+<th>A</th>
+<td>One formal playtest completed prior to release</td>
+<td>Milestone reached on schedule and professionally presented</td>
+<td>Completed on Steam before finals week</td>
+<td>All satisfactory</td>
+</tr>
+<tr>
+<th>B</th>
+<td>Two informal playtests completed prior to release</td>
+<td>Milestone reached on schedule</td>
+<td>Completed on Steam before the end of the semester</td>
+<td>At most one unsatisfactory</td>
+</tr>
+<tr>
+<th>C</th>
+<td>One informal playtest completed prior to release</td>
+<td>Milestone completed</td>
+<td>Completed on a non-Steam platform</td>
+<td>At most two unsatisfactory</td>
+</tr>
+<tr>
+<th>D</th>
+<td>No structured external playtesting</td>
+<td>Milestone completed</td>
+<td>Incomplete on any distribution platform</td>
+<td>At least one satisfactory</td>
+</tr>
+</table>
+
+Meeting one specification from the grade above your own earns
+a plus(&ldquo;+&rdquo;) designation. Earning two from the grade above
+your own earns a minus(&ldquo;-&rdquo;) designation of the next 
+higher rank.
+
+
 
 ## Miscellany
 
