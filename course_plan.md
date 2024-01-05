@@ -2,8 +2,11 @@
 
 ## About
 
-This document provides the course plan (&ldquo;syllabus&rdquo;) for CS414 Game
-Studio 1, Fall 2023, at Ball State University.
+This document provides the course plan (&ldquo;syllabus&rdquo;) for 
+CS414 Game Studio 1, Fall 2023, 
+and 
+CS415 Game Studio 2, Spring 2024,
+at Ball State University.
 
 ## Course Information
 
@@ -13,11 +16,17 @@ Studio 1, Fall 2023, at Ball State University.
 - **Drop-In Hours**: Posted on [my website](https://www.cs.bsu.edu/~pvgestwicki)
 - **Appointments outside of drop-in hours**: Taken via email or Slack
 - **Required Text**: Richard Lemarchand. _A Playful Production Process_. MIT Press. 2021.
-- **Prerequisite**: CS390 with a minimum grade of C-
+- **Prerequisite**: 
+    - For CS414: CS390 with a minimum grade of C-
+    - For CS415: CS414 with a minimum grade of C-
 
-The course catalog provides this short description of the course:
+The course catalog provides this short description of CS414:
 > Multidisciplinary teams follow contemporary best practices of game software
 > development to begin building an original video game.
+
+The catalog description of CS415 is:
+> Continuation of CS 414.  Must be taken in the semester following CS 414.
+> Multidisciplinary teams complete and publish an original videogame. 
 
 ## Background
 
@@ -31,6 +40,8 @@ By the end of this course sequence, a student will be able to:
 - Communicate intermediate and final reports to multiple audiences in various presentation modes
 
 ## Evaluation and Grades
+
+### CS414 (Fall)
 
 The alpha milestone is the most significant requirement of the semester. Your alpha milestone
 will be considered satisfactory if it meets the following requirements:
@@ -76,6 +87,10 @@ Meeting all of the previous criteria as well as **one** of the
 following earns an A grade:
   - You have served as a playtest coordinator and ensured that all of the requirements and goals of the playtest are met.
   - Another team member gives you a commendation for excellence via email to the professor. Each student may give only one such commendation.
+
+### CS415 (Spring)
+
+TBD
 
 ## Miscellany
 

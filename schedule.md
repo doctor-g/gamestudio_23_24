@@ -1,5 +1,7 @@
 # Schedule
 
+## Fall Semester
+
 For Wednesday, August 23, so that we can plan the alpha phase, complete the following:
 - Read Lemarchand chapters 22, 27&ndash;29 so that you will understand the goals and constraints of the alpha phase of production.
 - Skim Lemarchand 23&ndash;26 so you have a sense of what we're coming back to later.
@@ -40,3 +42,32 @@ Before Wednesday, December 6: Schedule your end-of-semester one-on-one with the 
 Wednesday, December 6: Start the Beta Phase of production, which will end on Wednesday, February 14. Lovely!
 
 Wednesday, December 12, 9:45&ndash;11:45: Our final exam period. Expect a regular meeting this day.
+
+
+## Spring Semester
+
+Before Wednesday, January 10: Read Lemarchand chapters 29&ndash;33 and 35 to orient yourself
+toward the semester's goals. We will discuss these at the January 10 meeting.
+
+Friday, January 12: Mob Programming Training Session
+
+Friday, January 19: Guest expert reviewer
+
+Wednesday, January 24: Guest expert reviewer
+
+Wednesday, January 26: Team Status Report and Retrospective Meeting
+
+Wednesday, February 14: Beta Milestone Deadline, Presentation, and Review
+
+Friday, February 16: Postproduction Planning
+
+Friday, March 1: Team Status Report and Retrospective Meeting
+
+March 4&ndash;8: Spring Break, no meetings
+
+Friday, March 22: Team Status Report and Retrospective Meeting
+
+Friday, April 5: Team Status Report and Retrospective Meeting
+
+Friday, April 26: Release Candidate Deadline
+
