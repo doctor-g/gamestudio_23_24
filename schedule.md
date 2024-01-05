@@ -56,7 +56,7 @@ Friday, January 19: Guest expert reviewer
 Wednesday, January 24: Guest expert reviewer
 
 Wednesday, January 26: 
- - Submit a self-assessment before the team meeting
+ - Submit a self-evaluation before the team meeting
  - Team Status Report and Retrospective Meeting
 
 Wednesday, February 14: Beta Milestone Deadline, Presentation, and Review
@@ -64,18 +64,18 @@ Wednesday, February 14: Beta Milestone Deadline, Presentation, and Review
 Friday, February 16: Postproduction Planning
 
 Friday, March 1: 
-  - Submit a self-assessment before the team meeting
+  - Submit a self-evaluation before the team meeting
   - Team Status Report and Retrospective Meeting
 
 March 4&ndash;8: Spring Break, no meetings
 
 Friday, March 22: 
- - Submit a self-assessment before the team meeting
+ - Submit a self-evaluation before the team meeting
  - Team Status Report and Retrospective Meeting
   
 
 Friday, April 5:
- - Submit a self-assessment before the team meeting
+ - Submit a self-evaluation before the team meeting
  - Team Status Report and Retrospective Meeting
 
 Friday, April 29: Release Candidate Deadline
