@@ -7,7 +7,7 @@ Studio 1, Fall 2023, at Ball State University.
 
 ## Course Information
 
-- **Meetings**: MWF 9:00&mdash;10:50 in the new Game Design & Development Studio Space (RB3??)
+- **Meetings**: MWF 9:00&mdash;10:50 in the new Game Design & Development Studio Space (RB353)
 - **Instructor**: [Paul Gestwicki, Ph.D.](https://www.cs.bsu.edu/~pvgestwicki)
 - **Office Location**: RB479
 - **Drop-In Hours**: Posted on [my website](https://www.cs.bsu.edu/~pvgestwicki)
