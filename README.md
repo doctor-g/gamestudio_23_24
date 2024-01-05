@@ -11,7 +11,7 @@ Here is what you can find in this repository:
 
 ## Legal and Licensing
 
-CS414 Course Plan &copy; 2023&ndash;2024 Paul Gestwicki
+CS414&ndash;415 Game Studio Course Plan &copy; 2023&ndash;2024 Paul Gestwicki
 
 The content of this repository is made available under the
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
