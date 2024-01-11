@@ -78,6 +78,8 @@ Friday, April 5:
  - Submit a self-evaluation before the team meeting
  - Team Status Report and Retrospective Meeting
 
+Friday, April 8: Remote work day to avoid eclipse-related chaos.
+
 Friday, April 29: Release Candidate Deadline
 
 Wednesday, May 1 (Final exam period): Final studio meeting, 9:45&ndash;11:45&nbsp;A.M.
