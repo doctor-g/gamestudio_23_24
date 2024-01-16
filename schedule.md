@@ -51,8 +51,6 @@ toward the semester's goals. We will discuss these at the January 10 meeting.
 
 Friday, January 12: Mob Programming Training Session
 
-Friday, January 19: Guest expert reviewer
-
 Wednesday, January 24: Guest expert reviewer
 
 Wednesday, January 26: 
