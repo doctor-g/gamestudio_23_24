@@ -57,6 +57,8 @@ Wednesday, January 26:
  - Submit a self-evaluation before the team meeting
  - Team Status Report and Retrospective Meeting
 
+Wednesday, January 31: Guest expert reviewer
+
 Wednesday, February 14: Beta Milestone Deadline, Presentation, and Review
 
 Friday, February 16: Postproduction Planning
