@@ -53,7 +53,7 @@ Friday, January 12: Mob Programming Training Session
 
 Wednesday, January 24: Guest expert reviewer
 
-Wednesday, January 26: 
+Friday, January 26: 
  - Submit a self-evaluation before the team meeting
  - Team Status Report and Retrospective Meeting
 
