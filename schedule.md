@@ -72,7 +72,9 @@ March 4&ndash;8: Spring Break, no meetings
 Friday, March 22: 
  - Submit a self-evaluation before the team meeting
  - Team Status Report and Retrospective Meeting
-  
+
+Wednesday, March 27: 
+  - 10:30&ndash;11:30, presentation by Iron Galaxy Studios Co-CEO Chelsea Blasko. Location TBD.
 
 Friday, April 5:
  - Submit a self-evaluation before the team meeting
