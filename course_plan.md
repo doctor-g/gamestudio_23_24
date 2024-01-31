@@ -151,7 +151,14 @@ Follow these steps to complete your self-evaluation.
     - Not clearly satisfied
     - Not applicable
 
-2. If any items are not clearly satisfied, write a postmortem that contains the following:
+2. If any items are not clearly satisfied, write a postmortem. 
+The postmortem is an essay whose goal is to highlight what
+you have learned from the experience. Regardless of how many items
+were not clearly satified, you write only one postmortem, although
+that postmortem may be multifaceted.
+
+    A successful postmortem will have the following structure, making
+the structure explicit in the document:
     - Summary of what went wrong
     - The primary cause
     - Impact and damage assessment
@@ -159,14 +166,15 @@ Follow these steps to complete your self-evaluation.
     - A set of action items to prevent the event from happening again
     - Lessons learned
 
-    These action items must be expressed in a manner that is specific,
-    measurable, attainable, relevant, and timely. Each must have
-    a deadline by which you propose to have them complete.
-    Most action items should be attainable within a few working days at most;
-    if you require more time, talk to the instructor about an individualized
-    schedule.
-    Otherwise, the expected window of time between the initial self-evaluation
-    and its final submission and conclusion is one week.
+    These action items must be expressed in a manner that is [specific,
+    measurable, achievable, relevant, and
+    time-bound](https://en.wikipedia.org/wiki/SMART_criteria). Each must have a
+    deadline by which you propose to have them complete. Most action items
+    should be attainable within a few working days at most; if you require more
+    time, talk to the instructor about an individualized schedule. Otherwise,
+    the expected window of time between the initial self-evaluation and its
+    final submission and conclusion is one week.
+
 
 Self-evaluations will be assessed by the instructor as one of the following:
 
