@@ -82,6 +82,9 @@ Friday, April 5:
 
 Friday, April 8: Remote work day to avoid eclipse-related chaos.
 
+Thursday, April 11: Computer Science Spring Banquet, 6:00&ndash;7:30
+  - Plan on showcasing the project while you celebrate your other accomplishments
+
 Friday, April 29: Release Candidate Deadline
 
 Wednesday, May 1 (Final exam period): Final studio meeting, 9:45&ndash;11:45&nbsp;A.M.
