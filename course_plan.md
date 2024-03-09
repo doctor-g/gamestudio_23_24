@@ -154,7 +154,7 @@ Follow these steps to complete your self-evaluation.
 2. If any items are not clearly satisfied, write a postmortem. 
 The postmortem is an essay whose goal is to highlight what
 you have learned from the experience. Regardless of how many items
-were not clearly satified, you write only one postmortem, although
+were not clearly satisfied, you write only one postmortem, although
 that postmortem may be multifaceted.
 
     A successful postmortem will have the following structure, making
